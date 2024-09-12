@@ -96,6 +96,6 @@ A seguir informações das 2 carteiras criadas e utilizadas no testnet para tran
 - Chave privada: cUg2sxudiEKXUd6URBykeCZXWuKR4SkPFpJzvLsQmcscbGDe4hkW
 - Seed: find drama confirm ten auction expire ill physical industry syrup emotion laptop
 
-### Clique [aqui]() para ver o código feito por mim para a criação das wallets
+### Clique [aqui](https://github.com/MatheusMadureiraa/formacao-blockchain-criando-wallet/blob/main/Modulo%2001%20Fundamentos%20da%20Blockchain/Curso%2001%20Introducao%20a%20Blockchain/BitcoinWallet/src/createWallet.mjs) para ver o código feito por mim para a criação das wallets
 
 #### Feito com carinho por *Matheus Guilherme Madureira* ☕
