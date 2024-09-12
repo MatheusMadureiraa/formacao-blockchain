@@ -1,9 +1,9 @@
 # CriandoCarteiraBTC
-<p align="center>
-  <img src="assets/Bitcoin_logo.webp" alt="Bitcoin Wallet" width="700">  
+<p align="center">
+    <img src="assets/Bitcoin_logo.webp" width="700" alt="Bitcoin">
 </p>
 
-- Projeto de criação de carteira BTC experimental na TestNet para receber e transacionar cryptos, realizado durante BootCamp Blockchain Developer with Solidity da Binance em parceiria com a DIO.
+##### Projeto de criação de carteira BTC experimental na TestNet para receber e transacionar cryptos, realizado durante BootCamp Blockchain Developer with Solidity da Binance em parceiria com a DIO.
 |ℹ️ NOTE: Esse repositório foi desenvolvido durante uma trilha do Bootcamp da DIO com  Binance
 
 
